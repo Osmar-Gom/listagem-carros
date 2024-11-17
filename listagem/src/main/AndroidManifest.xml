@@ -6,7 +6,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Contador">
+        android:theme="@style/Theme.Listagem">
         <activity
             android:name=".CarroDetalheActivity"
             android:exported="false" />

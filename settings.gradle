@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Contador"
+rootProject.name = "Launcher"
 include ':app'
 include ':listagem'
